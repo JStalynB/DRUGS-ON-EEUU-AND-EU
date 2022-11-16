@@ -1,0 +1,1117 @@
+Sub Region;Country;Drug;Year;Wholesale Price;Retail Price
+North America;United States of America;Cocaine;1990;48.300,00;79,95
+North America;United States of America;Cocaine;1991;48.100,00;76,58
+North America;United States of America;Cocaine;1992;44.730,00;72,79
+North America;United States of America;Cocaine;1993;42.180,00;74,11
+North America;United States of America;Cocaine;1994;38.640,00;68,01
+North America;United States of America;Cocaine;1995;35.700,00;72,01
+North America;United States of America;Cocaine;1996;34.320,00;73,03
+North America;United States of America;Cocaine;1997;31.960,00;72,37
+North America;United States of America;Cocaine;1998;30.870,00;72,49
+North America;United States of America;Cocaine;1999;29.580,00;70,22
+North America;United States of America;Cocaine;2000;21.500,00;76,73
+North America;United States of America;Cocaine;2001;23.000,00;73,54
+North America;United States of America;Cocaine;2002;21.500,00;71,03
+North America;United States of America;Cocaine;2003;22.066,00;73,78
+North America;United States of America;Cocaine;2004;20.500,00;69,63
+North America;United States of America;Cocaine;2005;20.500,00;66,18
+North America;United States of America;Cocaine;2006;26.500,00;64,03
+North America;United States of America;Cocaine;2007;31.000,00;69,62
+North America;United States of America;Cocaine;2008;26.500,00;78,28
+North America;United States of America;Cocaine;2009;28.250,00;83,68
+North America;United States of America;Cocaine;2010;30.750,00;83,74
+North America;United States of America;Cocaine;2011;40.800,00;84,88
+North America;United States of America;Cocaine;2012;29.000,00;96,39
+North America;United States of America;Cocaine;2013;28.750,00;98,72
+North America;United States of America;Cocaine;2014;29.000,00;103,09
+North America;United States of America;Cocaine;2015;28.250,00;103
+North America;United States of America;Cocaine;2016;28.000,00;91,79
+North America;United States of America;Cocaine;2017;28.000,00;98
+North America;United States of America;Cocaine;2018;26.000,00;101
+North America;United States of America;Cocaine;2019;29.000,00;120
+North America;United States of America;Cocaine;2020;29.000,00;120
+North America;United States of America;Heroin;1990;162.500,00;359,02
+North America;United States of America;Heroin;1991;155.000,00;427,78
+North America;United States of America;Heroin;1992;150.000,00;480,52
+North America;United States of America;Heroin;1993;146.000,00;373,51
+North America;United States of America;Heroin;1994;142.500,00;399,68
+North America;United States of America;Heroin;1995;146.000,00;395,16
+North America;United States of America;Heroin;1996;141.875,00;339,28
+North America;United States of America;Heroin;1997;129.375,00;357,01
+North America;United States of America;Heroin;1998;125.000,00;322,75
+North America;United States of America;Heroin;1999;107.000,00;310,18
+North America;United States of America;Heroin;2000;81.200,00;307,06
+North America;United States of America;Heroin;2001;59.500,00;284,89
+North America;United States of America;Heroin;2002;50.750,00;282,35
+North America;United States of America;Heroin;2003;68.800,00;267,88
+North America;United States of America;Heroin;2004;65.500,00;252,84
+North America;United States of America;Heroin;2005;65.000,00;255,61
+North America;United States of America;Heroin;2006;65.000,00;258,61
+North America;United States of America;Heroin;2007;71.200,00;229,52
+North America;United States of America;Heroin;2008;57.500,00;310,33
+North America;United States of America;Heroin;2009;65.053,25;274,89
+North America;United States of America;Heroin;2010;65.750,00;279,03
+North America;United States of America;Heroin;2011;55.583,33;260,43
+North America;United States of America;Heroin;2012;61.000,00;271,3
+North America;United States of America;Heroin;2013;61.000,00;259,59
+North America;United States of America;Heroin;2014;68.333,33;264,68
+North America;United States of America;Heroin;2015;59.500,00;264,94
+North America;United States of America;Heroin;2016;53.333,33;293,64
+North America;United States of America;Heroin;2017;53.333,33;360,85
+North America;United States of America;Heroin;2018;53.000,00;393,85
+North America;United States of America;Heroin;2019;53.000,00;393,85
+North America;United States of America;Heroin;2020;53.000,00;393,85
+Western and Central Europe;Austria;Cocaine;1990;66.000,00;198
+Western and Central Europe;Austria;Cocaine;1991;66.000,00;180
+Western and Central Europe;Austria;Cocaine;1992;54.000,00;167
+Western and Central Europe;Austria;Cocaine;1993;40.000,00;120
+Western and Central Europe;Austria;Cocaine;1994;41.946,00;126
+Western and Central Europe;Austria;Cocaine;1995;52.084,00;156
+Western and Central Europe;Austria;Cocaine;1996;45.875,00;138
+Western and Central Europe;Austria;Cocaine;1997;56.723,00;118
+Western and Central Europe;Austria;Cocaine;1998;54.440,00;113
+Western and Central Europe;Austria;Cocaine;1999;38.859,00;93
+Western and Central Europe;Austria;Cocaine;2000;47.094,00;94
+Western and Central Europe;Austria;Cocaine;2001;43.995,00;78
+Western and Central Europe;Austria;Cocaine;2002;42.385,00;71
+Western and Central Europe;Austria;Cocaine;2003;59.300,00;90
+Western and Central Europe;Austria;Cocaine;2004;55.894,00;103
+Western and Central Europe;Austria;Cocaine;2005;59.757,00;101
+Western and Central Europe;Austria;Cocaine;2006;50.185,00;78
+Western and Central Europe;Austria;Cocaine;2007;61.661,00;99
+Western and Central Europe;Austria;Cocaine;2008;66.176,00;110
+Western and Central Europe;Austria;Cocaine;2009;48.668,00;97
+Western and Central Europe;Austria;Cocaine;2010;52.989,00;97
+Western and Central Europe;Austria;Cocaine;2011;62.823,00;103
+Western and Central Europe;Austria;Cocaine;2012;51.546,00;103
+Western and Central Europe;Austria;Cocaine;2013;73.351,00;100
+Western and Central Europe;Austria;Cocaine;2014;65.797,00;132
+Western and Central Europe;Austria;Cocaine;2015;54.705,00;109
+Western and Central Europe;Austria;Cocaine;2016;58.139,54;111
+Western and Central Europe;Austria;Cocaine;2017;58.922,56;111
+Western and Central Europe;Austria;Cocaine;2018;58.922,56;111
+Western and Central Europe;Austria;Cocaine;2019;58.922,56;111
+Western and Central Europe;Austria;Cocaine;2020;61.503,42;119,59
+Western and Central Europe;Austria;Heroin;1990;55.244,00;270
+Western and Central Europe;Austria;Heroin;1991;46.145,00;250
+Western and Central Europe;Austria;Heroin;1992;63.000,00;203
+Western and Central Europe;Austria;Heroin;1993;36.000,00;132
+Western and Central Europe;Austria;Heroin;1994;37.752,00;138
+Western and Central Europe;Austria;Heroin;1995;30.491,00;103
+Western and Central Europe;Austria;Heroin;1996;30.222,00;87
+Western and Central Europe;Austria;Heroin;1997;28.831,00;70
+Western and Central Europe;Austria;Heroin;1998;34.565,00;94
+Western and Central Europe;Austria;Heroin;1999;31.087,00;57
+Western and Central Europe;Austria;Heroin;2000;25.026,00;75
+Western and Central Europe;Austria;Heroin;2001;19.553,00;44
+Western and Central Europe;Austria;Heroin;2002;23.547,00;92
+Western and Central Europe;Austria;Heroin;2003;33.900,00;68
+Western and Central Europe;Austria;Heroin;2004;37.260,00;75
+Western and Central Europe;Austria;Heroin;2005;36.168,00;74
+Western and Central Europe;Austria;Heroin;2006;37.640,00;69
+Western and Central Europe;Austria;Heroin;2007;54.810,00;99
+Western and Central Europe;Austria;Heroin;2008;58.824,00;110
+Western and Central Europe;Austria;Heroin;2009;41.715,00;97
+Western and Central Europe;Austria;Heroin;2010;39.741,00;93
+Western and Central Europe;Austria;Heroin;2011;41.882,00;98
+Western and Central Europe;Austria;Heroin;2012;30.928,00;64
+Western and Central Europe;Austria;Heroin;2013;40.010,00;80
+Western and Central Europe;Austria;Heroin;2014;32.899,00;53
+Western and Central Europe;Austria;Heroin;2015;27.352,00;44
+Western and Central Europe;Austria;Heroin;2016;27.685,00;66
+Western and Central Europe;Austria;Heroin;2017;32.580,38;65
+Western and Central Europe;Austria;Heroin;2018;37.475,76;71
+Western and Central Europe;Austria;Heroin;2019;42.371,14;71
+Western and Central Europe;Austria;Heroin;2020;47.266,51;68,34
+Western and Central Europe;Belgium;Cocaine;1990;25.000,00;80
+Western and Central Europe;Belgium;Cocaine;1991;24.000,00;90
+Western and Central Europe;Belgium;Cocaine;1992;38.250,00;68
+Western and Central Europe;Belgium;Cocaine;1993;28.000,00;95
+Western and Central Europe;Belgium;Cocaine;1994;26.920,00;82
+Western and Central Europe;Belgium;Cocaine;1995;30.560,00;93
+Western and Central Europe;Belgium;Cocaine;1996;21.927,00;90
+Western and Central Europe;Belgium;Cocaine;1997;17.025,00;57
+Western and Central Europe;Belgium;Cocaine;1998;19.167,00;55
+Western and Central Europe;Belgium;Cocaine;1999;23.859,00;60
+Western and Central Europe;Belgium;Cocaine;2000;22.376,00;55
+Western and Central Europe;Belgium;Cocaine;2001;26.771,00;51
+Western and Central Europe;Belgium;Cocaine;2002;28.111,00;50
+Western and Central Europe;Belgium;Cocaine;2003;29.610,00;51
+Western and Central Europe;Belgium;Cocaine;2004;32.480,00;51
+Western and Central Europe;Belgium;Cocaine;2005;32.480,00;51
+Western and Central Europe;Belgium;Cocaine;2006;32.480,00;60
+Western and Central Europe;Belgium;Cocaine;2007;47.958,00;67
+Western and Central Europe;Belgium;Cocaine;2008;53.757,00;72
+Western and Central Europe;Belgium;Cocaine;2009;46.675,00;71
+Western and Central Europe;Belgium;Cocaine;2010;46.365,00;67
+Western and Central Europe;Belgium;Cocaine;2011;46.594,00;75
+Western and Central Europe;Belgium;Cocaine;2012;48.722,00;73
+Western and Central Europe;Belgium;Cocaine;2013;44.011,00;68
+Western and Central Europe;Belgium;Cocaine;2014;41.500,67;75,89
+Western and Central Europe;Belgium;Cocaine;2015;31.798,00;59
+Western and Central Europe;Belgium;Cocaine;2016;29.777,41;67
+Western and Central Europe;Belgium;Cocaine;2017;32.155,00;65
+Western and Central Europe;Belgium;Cocaine;2018;31.609,00;66
+Western and Central Europe;Belgium;Cocaine;2019;32.350,50;57
+Western and Central Europe;Belgium;Cocaine;2020;33.029,61;59,52
+Western and Central Europe;Belgium;Heroin;1990;30.000,00;90
+Western and Central Europe;Belgium;Heroin;1991;30.000,00;105
+Western and Central Europe;Belgium;Heroin;1992;28.500,00;105
+Western and Central Europe;Belgium;Heroin;1993;26.600,00;77
+Western and Central Europe;Belgium;Heroin;1994;29.586,00;75
+Western and Central Europe;Belgium;Heroin;1995;32.580,00;75
+Western and Central Europe;Belgium;Heroin;1996;24.307,00;56
+Western and Central Europe;Belgium;Heroin;1997;21.761,00;37
+Western and Central Europe;Belgium;Heroin;1998;20.847,00;41
+Western and Central Europe;Belgium;Heroin;1999;18.557,00;41
+Western and Central Europe;Belgium;Heroin;2000;18.360,00;37
+Western and Central Europe;Belgium;Heroin;2001;20.292,00;27
+Western and Central Europe;Belgium;Heroin;2002;22.229,00;29
+Western and Central Europe;Belgium;Heroin;2003;20.960,00;31
+Western and Central Europe;Belgium;Heroin;2004;23.040,00;32
+Western and Central Europe;Belgium;Heroin;2005;23.336,00;31
+Western and Central Europe;Belgium;Heroin;2006;18.820,00;32
+Western and Central Europe;Belgium;Heroin;2007;20.554,00;33
+Western and Central Europe;Belgium;Heroin;2008;14.706,00;36
+Western and Central Europe;Belgium;Heroin;2009;15.991,00;33
+Western and Central Europe;Belgium;Heroin;2010;15.102,00;32
+Western and Central Europe;Belgium;Heroin;2011;10.720,00;42
+Western and Central Europe;Belgium;Heroin;2012;20.619,00;36
+Western and Central Europe;Belgium;Heroin;2013;18.338,00;37
+Western and Central Europe;Belgium;Heroin;2014;17.519,31;33
+Western and Central Europe;Belgium;Heroin;2015;17.505,00;24
+Western and Central Europe;Belgium;Heroin;2016;26.578,07;26
+Western and Central Europe;Belgium;Heroin;2017;22.638,57;29
+Western and Central Europe;Belgium;Heroin;2018;18.699,06;23
+Western and Central Europe;Belgium;Heroin;2019;14.759,55;23
+Western and Central Europe;Belgium;Heroin;2020;10.820,05;21,07
+Western and Central Europe;Denmark;Cocaine;1990;80.000,00;144
+Western and Central Europe;Denmark;Cocaine;1991;85.000,00;135
+Western and Central Europe;Denmark;Cocaine;1992;85.000,00;111
+Western and Central Europe;Denmark;Cocaine;1993;82.500,00;90
+Western and Central Europe;Denmark;Cocaine;1994;58.516,00;150
+Western and Central Europe;Denmark;Cocaine;1995;60.034,00;176
+Western and Central Europe;Denmark;Cocaine;1996;46.141,00;169
+Western and Central Europe;Denmark;Cocaine;1997;38.640,00;108
+Western and Central Europe;Denmark;Cocaine;1998;44.517,00;119
+Western and Central Europe;Denmark;Cocaine;1999;78.900,00;165
+Western and Central Europe;Denmark;Cocaine;2000;43.462,00;106
+Western and Central Europe;Denmark;Cocaine;2001;47.839,00;120
+Western and Central Europe;Denmark;Cocaine;2002;37.823,00;91
+Western and Central Europe;Denmark;Cocaine;2003;53.160,00;122
+Western and Central Europe;Denmark;Cocaine;2004;45.896,00;82
+Western and Central Europe;Denmark;Cocaine;2005;50.321,00;82
+Western and Central Europe;Denmark;Cocaine;2006;40.520,00;81
+Western and Central Europe;Denmark;Cocaine;2007;40.445,00;74
+Western and Central Europe;Denmark;Cocaine;2008;43.447,00;99
+Western and Central Europe;Denmark;Cocaine;2009;40.730,00;93
+Western and Central Europe;Denmark;Cocaine;2010;44.501,00;89
+Western and Central Europe;Denmark;Cocaine;2011;47.083,00;94
+Western and Central Europe;Denmark;Cocaine;2012;43.286,00;87
+Western and Central Europe;Denmark;Cocaine;2013;44.395,00;92
+Western and Central Europe;Denmark;Cocaine;2014;49.140,00;103
+Western and Central Europe;Denmark;Cocaine;2015;29.326,00;73
+Western and Central Europe;Denmark;Cocaine;2016;29.740,00;74
+Western and Central Europe;Denmark;Cocaine;2017;45.262,52;74
+Western and Central Europe;Denmark;Cocaine;2018;39.626,00;95
+Western and Central Europe;Denmark;Cocaine;2019;37.492,50;105
+Western and Central Europe;Denmark;Cocaine;2020;37.492,50;105
+Western and Central Europe;Denmark;Heroin;1990;110.000,00;287
+Western and Central Europe;Denmark;Heroin;1991;100.000,00;265
+Western and Central Europe;Denmark;Heroin;1992;85.000,00;151
+Western and Central Europe;Denmark;Heroin;1993;95.000,00;139
+Western and Central Europe;Denmark;Heroin;1994;117.625,00;228
+Western and Central Europe;Denmark;Heroin;1995;106.805,00;191
+Western and Central Europe;Denmark;Heroin;1996;86.806,00;157
+Western and Central Europe;Denmark;Heroin;1997;100.465,00;188
+Western and Central Europe;Denmark;Heroin;1998;65.693,00;147
+Western and Central Europe;Denmark;Heroin;1999;61.507,00;175
+Western and Central Europe;Denmark;Heroin;2000;23.585,00;116
+Western and Central Europe;Denmark;Heroin;2001;32.889,00;111
+Western and Central Europe;Denmark;Heroin;2002;20.803,00;126
+Western and Central Europe;Denmark;Heroin;2003;41.770,00;122
+Western and Central Europe;Denmark;Heroin;2004;32.820,00;94
+Western and Central Europe;Denmark;Heroin;2005;37.741,00;123
+Western and Central Europe;Denmark;Heroin;2006;35.967,00;100
+Western and Central Europe;Denmark;Heroin;2007;33.091,00;92
+Western and Central Europe;Denmark;Heroin;2008;52.335,00;158
+Western and Central Europe;Denmark;Heroin;2009;49.066,00;148
+Western and Central Europe;Denmark;Heroin;2010;48.952,00;151
+Western and Central Europe;Denmark;Heroin;2011;51.791,00;160
+Western and Central Europe;Denmark;Heroin;2012;47.614,00;147
+Western and Central Europe;Denmark;Heroin;2013;64.743,00;148
+Western and Central Europe;Denmark;Heroin;2014;40.950,00;139
+Western and Central Europe;Denmark;Heroin;2015;47.654,00;103
+Western and Central Europe;Denmark;Heroin;2016;44.610,00;104
+Western and Central Europe;Denmark;Heroin;2017;45.263,00;106
+Western and Central Europe;Denmark;Heroin;2018;51.514,00;135
+Western and Central Europe;Denmark;Heroin;2019;37.492,50;90
+Western and Central Europe;Denmark;Heroin;2020;37.492,50;90
+Western and Central Europe;Finland;Cocaine;1990;79.500,00;159
+Western and Central Europe;Finland;Cocaine;1991;75.000,00;150
+Western and Central Europe;Finland;Cocaine;1992;62.750,00;126
+Western and Central Europe;Finland;Cocaine;1993;52.500,00;105
+Western and Central Europe;Finland;Cocaine;1994;82.500,00;165
+Western and Central Europe;Finland;Cocaine;1995;95.450,00;191
+Western and Central Europe;Finland;Cocaine;1996;91.750,00;184
+Western and Central Europe;Finland;Cocaine;1997;61.550,00;123
+Western and Central Europe;Finland;Cocaine;1998;89.350,00;179
+Western and Central Europe;Finland;Cocaine;1999;78.460,00;157
+Western and Central Europe;Finland;Cocaine;2000;68.321,00;138
+Western and Central Europe;Finland;Cocaine;2001;59.492,00;121
+Western and Central Europe;Finland;Cocaine;2002;51.804,00;111
+Western and Central Europe;Finland;Cocaine;2003;62.150,00;151
+Western and Central Europe;Finland;Cocaine;2004;68.315,00;146
+Western and Central Europe;Finland;Cocaine;2005;68.315,00;125
+Western and Central Europe;Finland;Cocaine;2006;56.611,00;100
+Western and Central Europe;Finland;Cocaine;2007;61.660,00;110
+Western and Central Europe;Finland;Cocaine;2008;66.176,00;154
+Western and Central Europe;Finland;Cocaine;2009;62.573,00;139
+Western and Central Europe;Finland;Cocaine;2010;59.612,00;106
+Western and Central Europe;Finland;Cocaine;2011;97.724,00;112
+Western and Central Europe;Finland;Cocaine;2012;90.206,00;103
+Western and Central Europe;Finland;Cocaine;2013;130.032,00;107
+Western and Central Europe;Finland;Cocaine;2014;128.305,00;145
+Western and Central Europe;Finland;Cocaine;2015;95.733,00;126
+Western and Central Europe;Finland;Cocaine;2016;77.519,00;111
+Western and Central Europe;Finland;Cocaine;2017;78.563,00;112
+Western and Central Europe;Finland;Cocaine;2018;94.451,00;118
+Western and Central Europe;Finland;Cocaine;2019;89.585,67;112
+Western and Central Europe;Finland;Cocaine;2020;96.810,93;125,28
+Western and Central Europe;Finland;Heroin;1990;353.774,00;800
+Western and Central Europe;Finland;Heroin;1991;353.774,00;696
+Western and Central Europe;Finland;Heroin;1992;353.774,00;770
+Western and Central Europe;Finland;Heroin;1993;353.774,00;724
+Western and Central Europe;Finland;Heroin;1994;353.774,00;606
+Western and Central Europe;Finland;Heroin;1995;353.774,00;455
+Western and Central Europe;Finland;Heroin;1996;321.586,00;414
+Western and Central Europe;Finland;Heroin;1997;199.442,00;257
+Western and Central Europe;Finland;Heroin;1998;197.856,00;254
+Western and Central Europe;Finland;Heroin;1999;194.357,00;250
+Western and Central Europe;Finland;Heroin;2000;161.034,00;207
+Western and Central Europe;Finland;Heroin;2001;44.840,00;121
+Western and Central Europe;Finland;Heroin;2002;51.804,00;188
+Western and Central Europe;Finland;Heroin;2003;51.800,00;195
+Western and Central Europe;Finland;Heroin;2004;68.314,00;195
+Western and Central Europe;Finland;Heroin;2005;69.192,00;182
+Western and Central Europe;Finland;Heroin;2006;69.192,00;125
+Western and Central Europe;Finland;Heroin;2007;54.810,00;151
+Western and Central Europe;Finland;Heroin;2008;58.824,00;235
+Western and Central Europe;Finland;Heroin;2009;58.824,00;223
+Western and Central Europe;Finland;Heroin;2010;52.989,00;159
+Western and Central Europe;Finland;Heroin;2011;55.843,00;168
+Western and Central Europe;Finland;Heroin;2012;51.546,00;155
+Western and Central Europe;Finland;Heroin;2013;53.346,00;160
+Western and Central Europe;Finland;Heroin;2014;53.346,00;185
+Western and Central Europe;Finland;Heroin;2015;53.346,00;164
+Western and Central Europe;Finland;Heroin;2016;53.346,00;166
+Western and Central Europe;Finland;Heroin;2017;53.346,00;168
+Western and Central Europe;Finland;Heroin;2018;53.346,00;177
+Western and Central Europe;Finland;Heroin;2019;53.346,00;177
+Western and Central Europe;Finland;Heroin;2020;53.346,00;199,09
+Western and Central Europe;France;Cocaine;1990;117.000,00;99
+Western and Central Europe;France;Cocaine;1991;38.250,00;119
+Western and Central Europe;France;Cocaine;1992;45.000,00;140
+Western and Central Europe;France;Cocaine;1993;38.250,00;153
+Western and Central Europe;France;Cocaine;1994;40.000,00;151
+Western and Central Europe;France;Cocaine;1995;39.877,00;174
+Western and Central Europe;France;Cocaine;1996;48.077,00;125
+Western and Central Europe;France;Cocaine;1997;43.554,00;87
+Western and Central Europe;France;Cocaine;1998;42.159,00;84
+Western and Central Europe;France;Cocaine;1999;27.714,00;82
+Western and Central Europe;France;Cocaine;2000;27.000,00;50
+Western and Central Europe;France;Cocaine;2001;34.978,00;87
+Western and Central Europe;France;Cocaine;2002;37.676,00;75
+Western and Central Europe;France;Cocaine;2003;45.200,00;90
+Western and Central Europe;France;Cocaine;2004;49.683,00;99
+Western and Central Europe;France;Cocaine;2005;50.321,00;94
+Western and Central Europe;France;Cocaine;2006;50.190,00;97
+Western and Central Europe;France;Cocaine;2007;61.661,00;96
+Western and Central Europe;France;Cocaine;2008;44.118,00;103
+Western and Central Europe;France;Cocaine;2009;41.715,00;83
+Western and Central Europe;France;Cocaine;2010;39.741,00;80
+Western and Central Europe;France;Cocaine;2011;38.392,00;87
+Western and Central Europe;France;Cocaine;2012;38.660,00;84
+Western and Central Europe;France;Cocaine;2013;40.010,00;87
+Western and Central Europe;France;Cocaine;2014;46.058,00;86
+Western and Central Europe;France;Cocaine;2015;38.293,00;71
+Western and Central Europe;France;Cocaine;2016;37.728,67;71
+Western and Central Europe;France;Cocaine;2017;37.164,33;71
+Western and Central Europe;France;Cocaine;2018;36.600,00;83
+Western and Central Europe;France;Cocaine;2019;34.714,45;78
+Western and Central Europe;France;Cocaine;2020;38.154,90;75,17
+Western and Central Europe;France;Heroin;1990;180.000,00;145
+Western and Central Europe;France;Heroin;1991;72.250,00;153
+Western and Central Europe;France;Heroin;1992;80.000,00;150
+Western and Central Europe;France;Heroin;1993;63.750,00;135
+Western and Central Europe;France;Heroin;1994;75.000,00;144
+Western and Central Europe;France;Heroin;1995;66.035,00;170
+Western and Central Europe;France;Heroin;1996;46.603,00;156
+Western and Central Europe;France;Heroin;1997;32.230,00;113
+Western and Central Europe;France;Heroin;1998;25.885,00;119
+Western and Central Europe;France;Heroin;1999;25.596,00;111
+Western and Central Europe;France;Heroin;2000;22.158,00;32
+Western and Central Europe;France;Heroin;2001;26.906,00;34
+Western and Central Europe;France;Heroin;2002;23.547,00;47
+Western and Central Europe;France;Heroin;2003;28.250,00;57
+Western and Central Europe;France;Heroin;2004;31.050,00;68
+Western and Central Europe;France;Heroin;2005;31.450,00;69
+Western and Central Europe;France;Heroin;2006;35.550,00;67
+Western and Central Europe;France;Heroin;2007;34.246,00;55
+Western and Central Europe;France;Heroin;2008;36.743,00;66
+Western and Central Europe;France;Heroin;2009;17.385,00;56
+Western and Central Europe;France;Heroin;2010;15.897,00;53
+Western and Central Europe;France;Heroin;2011;11.169,00;49
+Western and Central Europe;France;Heroin;2012;13.853,00;45
+Western and Central Europe;France;Heroin;2013;13.337,00;47
+Western and Central Europe;France;Heroin;2014;19.739,00;46
+Western and Central Europe;France;Heroin;2015;16.411,00;38
+Western and Central Europe;France;Heroin;2016;16.844,00;39
+Western and Central Europe;France;Heroin;2017;17.277,00;40
+Western and Central Europe;France;Heroin;2018;17.710,00;41
+Western and Central Europe;France;Heroin;2019;16.797,31;39
+Western and Central Europe;France;Heroin;2020;15.518,22;37,59
+Western and Central Europe;Germany;Cocaine;1990;69.000,00;120
+Western and Central Europe;Germany;Cocaine;1991;53.100,00;103
+Western and Central Europe;Germany;Cocaine;1992;60.300,00;111
+Western and Central Europe;Germany;Cocaine;1993;54.142,00;95
+Western and Central Europe;Germany;Cocaine;1994;57.692,00;109
+Western and Central Europe;Germany;Cocaine;1995;54.676,00;103
+Western and Central Europe;Germany;Cocaine;1996;53.925,00;90
+Western and Central Europe;Germany;Cocaine;1997;45.294,00;77
+Western and Central Europe;Germany;Cocaine;1998;41.210,00;72
+Western and Central Europe;Germany;Cocaine;1999;39.639,00;68
+Western and Central Europe;Germany;Cocaine;2000;33.752,00;57
+Western and Central Europe;Germany;Cocaine;2001;33.235,00;58
+Western and Central Europe;Germany;Cocaine;2002;34.476,00;57
+Western and Central Europe;Germany;Cocaine;2003;40.110,00;68
+Western and Central Europe;Germany;Cocaine;2004;44.243,00;73
+Western and Central Europe;Germany;Cocaine;2005;46.525,00;79
+Western and Central Europe;Germany;Cocaine;2006;45.320,00;74
+Western and Central Europe;Germany;Cocaine;2007;48.826,00;86
+Western and Central Europe;Germany;Cocaine;2008;54.114,00;91
+Western and Central Europe;Germany;Cocaine;2009;57.171,00;87
+Western and Central Europe;Germany;Cocaine;2010;53.496,00;87
+Western and Central Europe;Germany;Cocaine;2011;64.044,00;92
+Western and Central Europe;Germany;Cocaine;2012;49.982,00;84
+Western and Central Europe;Germany;Cocaine;2013;48.678,00;92
+Western and Central Europe;Germany;Cocaine;2014;50.128,00;100
+Western and Central Europe;Germany;Cocaine;2015;46.849,00;81
+Western and Central Europe;Germany;Cocaine;2016;46.932,00;84
+Western and Central Europe;Germany;Cocaine;2017;46.832,00;81
+Western and Central Europe;Germany;Cocaine;2018;50.989,00;76
+Western and Central Europe;Germany;Cocaine;2019;46.920,49;60
+Western and Central Europe;Germany;Cocaine;2020;45.380,41;83,03
+Western and Central Europe;Germany;Heroin;1990;45.244,00;105
+Western and Central Europe;Germany;Heroin;1991;36.145,00;75
+Western and Central Europe;Germany;Heroin;1992;41.667,00;96
+Western and Central Europe;Germany;Heroin;1993;35.206,00;74
+Western and Central Europe;Germany;Heroin;1994;36.448,00;91
+Western and Central Europe;Germany;Heroin;1995;35.256,00;90
+Western and Central Europe;Germany;Heroin;1996;27.890,00;74
+Western and Central Europe;Germany;Heroin;1997;25.686,00;51
+Western and Central Europe;Germany;Heroin;1998;25.608,00;43
+Western and Central Europe;Germany;Heroin;1999;24.770,00;45
+Western and Central Europe;Germany;Heroin;2000;20.263,00;39
+Western and Central Europe;Germany;Heroin;2001;17.816,00;38
+Western and Central Europe;Germany;Heroin;2002;20.325,00;38
+Western and Central Europe;Germany;Heroin;2003;21.510,00;46
+Western and Central Europe;Germany;Heroin;2004;25.723,00;49
+Western and Central Europe;Germany;Heroin;2005;25.765,00;48
+Western and Central Europe;Germany;Heroin;2006;22.510,00;46
+Western and Central Europe;Germany;Heroin;2007;25.810,00;48
+Western and Central Europe;Germany;Heroin;2008;26.471,00;53
+Western and Central Europe;Germany;Heroin;2009;26.717,00;51
+Western and Central Europe;Germany;Heroin;2010;32.519,00;48
+Western and Central Europe;Germany;Heroin;2011;35.500,00;59
+Western and Central Europe;Germany;Heroin;2012;35.366,00;55
+Western and Central Europe;Germany;Heroin;2013;41.233,00;65
+Western and Central Europe;Germany;Heroin;2014;29.609,00;57
+Western and Central Europe;Germany;Heroin;2015;36.379,00;55
+Western and Central Europe;Germany;Heroin;2016;33.776,00;53
+Western and Central Europe;Germany;Heroin;2017;35.634,00;48
+Western and Central Europe;Germany;Heroin;2018;33.058,00;52
+Western and Central Europe;Germany;Heroin;2019;33.594,62;57
+Western and Central Europe;Germany;Heroin;2020;34.358,77;52,62
+Western and Central Europe;Greece;Cocaine;1990;75.000,00;150
+Western and Central Europe;Greece;Cocaine;1991;90.000,00;120
+Western and Central Europe;Greece;Cocaine;1992;95.000,00;105
+Western and Central Europe;Greece;Cocaine;1993;36.000,00;54
+Western and Central Europe;Greece;Cocaine;1994;46.413,00;116
+Western and Central Europe;Greece;Cocaine;1995;53.098,00;111
+Western and Central Europe;Greece;Cocaine;1996;72.015,00;144
+Western and Central Europe;Greece;Cocaine;1997;43.795,00;91
+Western and Central Europe;Greece;Cocaine;1998;49.180,00;54
+Western and Central Europe;Greece;Cocaine;1999;49.320,00;82
+Western and Central Europe;Greece;Cocaine;2000;41.237,00;69
+Western and Central Europe;Greece;Cocaine;2001;40.359,00;72
+Western and Central Europe;Greece;Cocaine;2002;42.385,00;75
+Western and Central Europe;Greece;Cocaine;2003;53.680,00;96
+Western and Central Europe;Greece;Cocaine;2004;57.446,00;93
+Western and Central Europe;Greece;Cocaine;2005;62.902,00;79
+Western and Central Europe;Greece;Cocaine;2006;62.735,00;110
+Western and Central Europe;Greece;Cocaine;2007;62.735,00;111
+Western and Central Europe;Greece;Cocaine;2008;69.853,00;110
+Western and Central Europe;Greece;Cocaine;2009;63.964,00;104
+Western and Central Europe;Greece;Cocaine;2010;59.612,00;96
+Western and Central Europe;Greece;Cocaine;2011;56.541,00;98
+Western and Central Europe;Greece;Cocaine;2012;52.835,00;97
+Western and Central Europe;Greece;Cocaine;2013;56.680,00;120
+Western and Central Europe;Greece;Cocaine;2014;62.507,00;112
+Western and Central Europe;Greece;Cocaine;2015;51.969,00;94
+Western and Central Europe;Greece;Cocaine;2016;52.602,00;94
+Western and Central Europe;Greece;Cocaine;2017;44.893,00;95
+Western and Central Europe;Greece;Cocaine;2018;46.045,00;100
+Western and Central Europe;Greece;Cocaine;2019;42.553,19;95
+Western and Central Europe;Greece;Cocaine;2020;48.405,47;102,51
+Western and Central Europe;Greece;Heroin;1990;90.000,00;120
+Western and Central Europe;Greece;Heroin;1991;70.000,00;175
+Western and Central Europe;Greece;Heroin;1992;35.000,00;63
+Western and Central Europe;Greece;Heroin;1993;28.000,00;44
+Western and Central Europe;Greece;Heroin;1994;29.536,00;105
+Western and Central Europe;Greece;Heroin;1995;34.362,00;88
+Western and Central Europe;Greece;Heroin;1996;39.090,00;77
+Western and Central Europe;Greece;Heroin;1997;28.775,00;80
+Western and Central Europe;Greece;Heroin;1998;21.020,00;55
+Western and Central Europe;Greece;Heroin;1999;20.714,00;55
+Western and Central Europe;Greece;Heroin;2000;17.320,00;55
+Western and Central Europe;Greece;Heroin;2001;16.592,00;53
+Western and Central Europe;Greece;Heroin;2002;17.425,00;45
+Western and Central Europe;Greece;Heroin;2003;18.650,00;65
+Western and Central Europe;Greece;Heroin;2004;17.540,00;51
+Western and Central Europe;Greece;Heroin;2005;14.782,00;31
+Western and Central Europe;Greece;Heroin;2006;19.450,00;75
+Western and Central Europe;Greece;Heroin;2007;19.450,00;75
+Western and Central Europe;Greece;Heroin;2008;22.413,00;59
+Western and Central Europe;Greece;Heroin;2009;21.205,00;54
+Western and Central Europe;Greece;Heroin;2010;18.215,00;40
+Western and Central Europe;Greece;Heroin;2011;23.035,00;24
+Western and Central Europe;Greece;Heroin;2012;21.263,00;18
+Western and Central Europe;Greece;Heroin;2013;16.004,00;28
+Western and Central Europe;Greece;Heroin;2014;15.791,00;28
+Western and Central Europe;Greece;Heroin;2015;17.505,00;26
+Western and Central Europe;Greece;Heroin;2016;19.934,00;26
+Western and Central Europe;Greece;Heroin;2017;20.202,00;24
+Western and Central Europe;Greece;Heroin;2018;21.842,00;25
+Western and Central Europe;Greece;Heroin;2019;21.276,60;24
+Western and Central Europe;Greece;Heroin;2020;20.501,14;21,07
+Western and Central Europe;Ireland;Cocaine;1990;45.000,00;141
+Western and Central Europe;Ireland;Cocaine;1991;45.000,00;137
+Western and Central Europe;Ireland;Cocaine;1992;40.000,00;120
+Western and Central Europe;Ireland;Cocaine;1993;50.000,00;110
+Western and Central Europe;Ireland;Cocaine;1994;45.000,00;100
+Western and Central Europe;Ireland;Cocaine;1995;42.000,00;119
+Western and Central Europe;Ireland;Cocaine;1996;31.646,00;32
+Western and Central Europe;Ireland;Cocaine;1997;33.733,00;34
+Western and Central Europe;Ireland;Cocaine;1998;31.530,00;32
+Western and Central Europe;Ireland;Cocaine;1999;29.891,00;30
+Western and Central Europe;Ireland;Cocaine;2000;29.891,00;28
+Western and Central Europe;Ireland;Cocaine;2001;29.891,00;28
+Western and Central Europe;Ireland;Cocaine;2002;29.891,00;94
+Western and Central Europe;Ireland;Cocaine;2003;30.510,00;79
+Western and Central Europe;Ireland;Cocaine;2004;38.557,00;87
+Western and Central Europe;Ireland;Cocaine;2005;38.506,00;88
+Western and Central Europe;Ireland;Cocaine;2006;39.636,00;88
+Western and Central Europe;Ireland;Cocaine;2007;41.107,00;96
+Western and Central Europe;Ireland;Cocaine;2008;44.118,00;103
+Western and Central Europe;Ireland;Cocaine;2009;36.161,00;97
+Western and Central Europe;Ireland;Cocaine;2010;34.443,00;93
+Western and Central Europe;Ireland;Cocaine;2011;36.298,00;98
+Western and Central Europe;Ireland;Cocaine;2012;38.660,00;90
+Western and Central Europe;Ireland;Cocaine;2013;93.356,00;93
+Western and Central Europe;Ireland;Cocaine;2014;32.899,00;92
+Western and Central Europe;Ireland;Cocaine;2015;32.823,00;77
+Western and Central Europe;Ireland;Cocaine;2016;33.223,00;78
+Western and Central Europe;Ireland;Cocaine;2017;33.140,50;78
+Western and Central Europe;Ireland;Cocaine;2018;33.058,00;83
+Western and Central Europe;Ireland;Cocaine;2019;27.995,52;78
+Western and Central Europe;Ireland;Cocaine;2020;34.168,56;79,73
+Western and Central Europe;Ireland;Heroin;1990;63.940,00;196
+Western and Central Europe;Ireland;Heroin;1991;53.940,00;180
+Western and Central Europe;Ireland;Heroin;1992;53.500,00;180
+Western and Central Europe;Ireland;Heroin;1993;53.210,00;168
+Western and Central Europe;Ireland;Heroin;1994;52.500,00;161
+Western and Central Europe;Ireland;Heroin;1995;81.479,00;179
+Western and Central Europe;Ireland;Heroin;1996;77.643,00;275
+Western and Central Europe;Ireland;Heroin;1997;36.531,00;228
+Western and Central Europe;Ireland;Heroin;1998;34.396,00;213
+Western and Central Europe;Ireland;Heroin;1999;43.478,00;204
+Western and Central Europe;Ireland;Heroin;2000;37.600,00;176
+Western and Central Europe;Ireland;Heroin;2001;36.441,00;170
+Western and Central Europe;Ireland;Heroin;2002;36.441,00;179
+Western and Central Europe;Ireland;Heroin;2003;30.510,00;179
+Western and Central Europe;Ireland;Heroin;2004;30.510,00;248
+Western and Central Europe;Ireland;Heroin;2005;33.967,00;252
+Western and Central Europe;Ireland;Heroin;2006;33.967,00;251
+Western and Central Europe;Ireland;Heroin;2007;33.967,00;274
+Western and Central Europe;Ireland;Heroin;2008;44.120,00;294
+Western and Central Europe;Ireland;Heroin;2009;41.725,00;209
+Western and Central Europe;Ireland;Heroin;2010;39.741,00;207
+Western and Central Europe;Ireland;Heroin;2011;41.882,00;209
+Western and Central Europe;Ireland;Heroin;2012;38.660,00;193
+Western and Central Europe;Ireland;Heroin;2013;40.010,00;200
+Western and Central Europe;Ireland;Heroin;2014;52.638,00;197
+Western and Central Europe;Ireland;Heroin;2015;43.764,00;153
+Western and Central Europe;Ireland;Heroin;2016;44.297,00;155
+Western and Central Europe;Ireland;Heroin;2017;45.761,50;155
+Western and Central Europe;Ireland;Heroin;2018;47.226,00;155
+Western and Central Europe;Ireland;Heroin;2019;44.792,83;157
+Western and Central Europe;Ireland;Heroin;2020;39.863,33;227,79
+Western and Central Europe;Italy;Cocaine;1990;54.000,00;108
+Western and Central Europe;Italy;Cocaine;1991;48.000,00;120
+Western and Central Europe;Italy;Cocaine;1992;94.000,00;164
+Western and Central Europe;Italy;Cocaine;1993;41.935,00;90
+Western and Central Europe;Italy;Cocaine;1994;51.097,00;104
+Western and Central Europe;Italy;Cocaine;1995;51.455,00;113
+Western and Central Europe;Italy;Cocaine;1996;55.633,00;129
+Western and Central Europe;Italy;Cocaine;1997;50.629,00;109
+Western and Central Europe;Italy;Cocaine;1998;49.091,00;129
+Western and Central Europe;Italy;Cocaine;1999;47.250,00;135
+Western and Central Europe;Italy;Cocaine;2000;46.000,00;100
+Western and Central Europe;Italy;Cocaine;2001;40.529,00;89
+Western and Central Europe;Italy;Cocaine;2002;41.412,00;90
+Western and Central Europe;Italy;Cocaine;2003;47.440,00;101
+Western and Central Europe;Italy;Cocaine;2004;51.759,00;113
+Western and Central Europe;Italy;Cocaine;2005;52.188,00;114
+Western and Central Europe;Italy;Cocaine;2006;52.920,00;104
+Western and Central Europe;Italy;Cocaine;2007;56.029,00;112
+Western and Central Europe;Italy;Cocaine;2008;63.514,00;111
+Western and Central Europe;Italy;Cocaine;2009;57.153,00;99
+Western and Central Europe;Italy;Cocaine;2010;53.593,00;92
+Western and Central Europe;Italy;Cocaine;2011;54.694,00;95
+Western and Central Europe;Italy;Cocaine;2012;48.854,00;90
+Western and Central Europe;Italy;Cocaine;2013;51.738,00;95
+Western and Central Europe;Italy;Cocaine;2014;52.082,00;94
+Western and Central Europe;Italy;Cocaine;2015;42.877,00;79
+Western and Central Europe;Italy;Cocaine;2016;43.499,00;87
+Western and Central Europe;Italy;Cocaine;2017;43.527,00;92
+Western and Central Europe;Italy;Cocaine;2018;45.667,00;96
+Western and Central Europe;Italy;Cocaine;2019;42.891,67;89
+Western and Central Europe;Italy;Cocaine;2020;43.769,93;91,34
+Western and Central Europe;Italy;Heroin;1990;67.500,00;167
+Western and Central Europe;Italy;Heroin;1991;60.000,00;148
+Western and Central Europe;Italy;Heroin;1992;108.000,00;140
+Western and Central Europe;Italy;Heroin;1993;42.581,00;29
+Western and Central Europe;Italy;Heroin;1994;47.690,00;55
+Western and Central Europe;Italy;Heroin;1995;35.786,00;41
+Western and Central Europe;Italy;Heroin;1996;48.152,00;115
+Western and Central Europe;Italy;Heroin;1997;37.795,00;98
+Western and Central Europe;Italy;Heroin;1998;36.459,00;120
+Western and Central Europe;Italy;Heroin;1999;36.894,00;95
+Western and Central Europe;Italy;Heroin;2000;31.163,00;71
+Western and Central Europe;Italy;Heroin;2001;32.979,00;68
+Western and Central Europe;Italy;Heroin;2002;33.669,00;59
+Western and Central Europe;Italy;Heroin;2003;29.830,00;63
+Western and Central Europe;Italy;Heroin;2004;30.109,00;69
+Western and Central Europe;Italy;Heroin;2005;30.496,00;68
+Western and Central Europe;Italy;Heroin;2006;28.830,00;66
+Western and Central Europe;Italy;Heroin;2007;31.676,00;66
+Western and Central Europe;Italy;Heroin;2008;46.300,00;78
+Western and Central Europe;Italy;Heroin;2009;44.044,00;72
+Western and Central Europe;Italy;Heroin;2010;39.478,00;68
+Western and Central Europe;Italy;Heroin;2011;39.687,00;73
+Western and Central Europe;Italy;Heroin;2012;34.912,00;67
+Western and Central Europe;Italy;Heroin;2013;35.537,00;68
+Western and Central Europe;Italy;Heroin;2014;32.961,00;65
+Western and Central Europe;Italy;Heroin;2015;29.727,00;53
+Western and Central Europe;Italy;Heroin;2016;29.884,00;53
+Western and Central Europe;Italy;Heroin;2017;28.432,00;48
+Western and Central Europe;Italy;Heroin;2018;28.524,00;53
+Western and Central Europe;Italy;Heroin;2019;26.274,82;54
+Western and Central Europe;Italy;Heroin;2020;33.443,05;61,5
+Western and Central Europe;Luxembourg;Cocaine;1990;93.919,00;150
+Western and Central Europe;Luxembourg;Cocaine;1991;95.939,00;150
+Western and Central Europe;Luxembourg;Cocaine;1992;113.521,00;150
+Western and Central Europe;Luxembourg;Cocaine;1993;50.847,00;150
+Western and Central Europe;Luxembourg;Cocaine;1994;157.593,00;172
+Western and Central Europe;Luxembourg;Cocaine;1995;141.343,00;194
+Western and Central Europe;Luxembourg;Cocaine;1996;47.625,00;127
+Western and Central Europe;Luxembourg;Cocaine;1997;43.103,00;115
+Western and Central Europe;Luxembourg;Cocaine;1998;41.072,00;110
+Western and Central Europe;Luxembourg;Cocaine;1999;47.718,00;119
+Western and Central Europe;Luxembourg;Cocaine;2000;47.718,00;119
+Western and Central Europe;Luxembourg;Cocaine;2001;47.718,00;119
+Western and Central Europe;Luxembourg;Cocaine;2002;47.718,00;107
+Western and Central Europe;Luxembourg;Cocaine;2003;47.718,00;96
+Western and Central Europe;Luxembourg;Cocaine;2004;31.052,00;114
+Western and Central Europe;Luxembourg;Cocaine;2005;31.450,00;105
+Western and Central Europe;Luxembourg;Cocaine;2006;31.450,00;106
+Western and Central Europe;Luxembourg;Cocaine;2007;33.787,00;89
+Western and Central Europe;Luxembourg;Cocaine;2008;36.299,00;89
+Western and Central Europe;Luxembourg;Cocaine;2009;38.996,00;89
+Western and Central Europe;Luxembourg;Cocaine;2010;41.895,00;166
+Western and Central Europe;Luxembourg;Cocaine;2011;45.008,00;119
+Western and Central Europe;Luxembourg;Cocaine;2012;48.353,00;110
+Western and Central Europe;Luxembourg;Cocaine;2013;51.947,00;114
+Western and Central Europe;Luxembourg;Cocaine;2014;55.808,00;112
+Western and Central Europe;Luxembourg;Cocaine;2015;55.808,00;93
+Western and Central Europe;Luxembourg;Cocaine;2016;55.808,00;95
+Western and Central Europe;Luxembourg;Cocaine;2017;55.808,00;106
+Western and Central Europe;Luxembourg;Cocaine;2018;55.808,00;81
+Western and Central Europe;Luxembourg;Cocaine;2019;55.808,00;77
+Western and Central Europe;Luxembourg;Cocaine;2020;55.808,00;85,42
+Western and Central Europe;Luxembourg;Heroin;1990;86.000,00;172
+Western and Central Europe;Luxembourg;Heroin;1991;75.000,00;150
+Western and Central Europe;Luxembourg;Heroin;1992;75.000,00;150
+Western and Central Europe;Luxembourg;Heroin;1993;49.500,00;150
+Western and Central Europe;Luxembourg;Heroin;1994;86.000,00;172
+Western and Central Europe;Luxembourg;Heroin;1995;57.079,00;202
+Western and Central Europe;Luxembourg;Heroin;1996;59.852,00;138
+Western and Central Europe;Luxembourg;Heroin;1997;54.786,00;141
+Western and Central Europe;Luxembourg;Heroin;1998;52.630,00;133
+Western and Central Europe;Luxembourg;Heroin;1999;50.368,00;126
+Western and Central Europe;Luxembourg;Heroin;2000;48.000,00;69
+Western and Central Europe;Luxembourg;Heroin;2001;50.369,00;67
+Western and Central Europe;Luxembourg;Heroin;2002;50.369,00;67
+Western and Central Europe;Luxembourg;Heroin;2003;24.700,00;45
+Western and Central Europe;Luxembourg;Heroin;2004;43.473,00;101
+Western and Central Europe;Luxembourg;Heroin;2005;44.030,00;102
+Western and Central Europe;Luxembourg;Heroin;2006;44.030,00;102
+Western and Central Europe;Luxembourg;Heroin;2007;31.451,00;96
+Western and Central Europe;Luxembourg;Heroin;2008;33.763,00;96
+Western and Central Europe;Luxembourg;Heroin;2009;31.925,00;96
+Western and Central Europe;Luxembourg;Heroin;2010;30.414,00;88
+Western and Central Europe;Luxembourg;Heroin;2011;32.052,00;78
+Western and Central Europe;Luxembourg;Heroin;2012;29.587,00;72
+Western and Central Europe;Luxembourg;Heroin;2013;30.000,00;74
+Western and Central Europe;Luxembourg;Heroin;2014;30.000,00;74
+Western and Central Europe;Luxembourg;Heroin;2015;30.000,00;61
+Western and Central Europe;Luxembourg;Heroin;2016;30.000,00;61
+Western and Central Europe;Luxembourg;Heroin;2017;30.000,00;61
+Western and Central Europe;Luxembourg;Heroin;2018;30.000,00;61
+Western and Central Europe;Luxembourg;Heroin;2019;30.000,00;53
+Western and Central Europe;Luxembourg;Heroin;2020;30.000,00;51,25
+Western and Central Europe;Netherlands;Cocaine;1990;26.500,00;66
+Western and Central Europe;Netherlands;Cocaine;1991;28.000,00;70
+Western and Central Europe;Netherlands;Cocaine;1992;29.500,00;74
+Western and Central Europe;Netherlands;Cocaine;1993;26.500,00;66
+Western and Central Europe;Netherlands;Cocaine;1994;24.680,00;60
+Western and Central Europe;Netherlands;Cocaine;1995;33.232,00;79
+Western and Central Europe;Netherlands;Cocaine;1996;23.894,00;52
+Western and Central Europe;Netherlands;Cocaine;1997;29.698,00;64
+Western and Central Europe;Netherlands;Cocaine;1998;22.355,00;38
+Western and Central Europe;Netherlands;Cocaine;1999;27.500,00;33
+Western and Central Europe;Netherlands;Cocaine;2000;27.500,00;33
+Western and Central Europe;Netherlands;Cocaine;2001;27.500,00;33
+Western and Central Europe;Netherlands;Cocaine;2002;27.500,00;33
+Western and Central Europe;Netherlands;Cocaine;2003;27.400,00;50
+Western and Central Europe;Netherlands;Cocaine;2004;33.775,00;59
+Western and Central Europe;Netherlands;Cocaine;2005;33.775,00;59
+Western and Central Europe;Netherlands;Cocaine;2006;35.000,00;60
+Western and Central Europe;Netherlands;Cocaine;2007;42.409,00;59
+Western and Central Europe;Netherlands;Cocaine;2008;46.691,00;63
+Western and Central Europe;Netherlands;Cocaine;2009;44.149,00;63
+Western and Central Europe;Netherlands;Cocaine;2010;41.596,00;59
+Western and Central Europe;Netherlands;Cocaine;2011;43.836,00;73
+Western and Central Europe;Netherlands;Cocaine;2012;40.464,00;67
+Western and Central Europe;Netherlands;Cocaine;2013;41.877,00;69
+Western and Central Europe;Netherlands;Cocaine;2014;41.877,00;69
+Western and Central Europe;Netherlands;Cocaine;2015;41.877,00;65,15
+Western and Central Europe;Netherlands;Cocaine;2016;41.877,00;62,04
+Western and Central Europe;Netherlands;Cocaine;2017;41.877,00;56
+Western and Central Europe;Netherlands;Cocaine;2018;41.877,00;58
+Western and Central Europe;Netherlands;Cocaine;2019;41.877,00;58
+Western and Central Europe;Netherlands;Cocaine;2020;41.877,00;57,29
+Western and Central Europe;Netherlands;Heroin;1990;23.850,00;49
+Western and Central Europe;Netherlands;Heroin;1991;25.000,00;50
+Western and Central Europe;Netherlands;Heroin;1992;26.550,00;55
+Western and Central Europe;Netherlands;Heroin;1993;23.850,00;49
+Western and Central Europe;Netherlands;Heroin;1994;23.850,00;55
+Western and Central Europe;Netherlands;Heroin;1995;24.384,00;61
+Western and Central Europe;Netherlands;Heroin;1996;20.572,00;48
+Western and Central Europe;Netherlands;Heroin;1997;13.810,00;55
+Western and Central Europe;Netherlands;Heroin;1998;14.056,00;34
+Western and Central Europe;Netherlands;Heroin;1999;16.985,00;30
+Western and Central Europe;Netherlands;Heroin;2000;14.703,00;25
+Western and Central Europe;Netherlands;Heroin;2001;15.757,00;43
+Western and Central Europe;Netherlands;Heroin;2002;29.199,00;35
+Western and Central Europe;Netherlands;Heroin;2003;17.730,00;40
+Western and Central Europe;Netherlands;Heroin;2004;17.730,00;57
+Western and Central Europe;Netherlands;Heroin;2005;18.240,00;38
+Western and Central Europe;Netherlands;Heroin;2006;16.625,00;38
+Western and Central Europe;Netherlands;Heroin;2007;16.957,00;33
+Western and Central Europe;Netherlands;Heroin;2008;19.841,00;53
+Western and Central Europe;Netherlands;Heroin;2009;19.841,00;53
+Western and Central Europe;Netherlands;Heroin;2010;22.079,00;51
+Western and Central Europe;Netherlands;Heroin;2011;23.268,00;60
+Western and Central Europe;Netherlands;Heroin;2012;21.478,00;55
+Western and Central Europe;Netherlands;Heroin;2013;22.228,00;47
+Western and Central Europe;Netherlands;Heroin;2014;22.228,00;45
+Western and Central Europe;Netherlands;Heroin;2015;22.228,00;45
+Western and Central Europe;Netherlands;Heroin;2016;22.228,00;39
+Western and Central Europe;Netherlands;Heroin;2017;22.228,00;43
+Western and Central Europe;Netherlands;Heroin;2018;22.228,00;41
+Western and Central Europe;Netherlands;Heroin;2019;22.228,00;41
+Western and Central Europe;Netherlands;Heroin;2020;22.228,00;41
+Western and Central Europe;Norway;Cocaine;1990;120.000,00;176
+Western and Central Europe;Norway;Cocaine;1991;120.000,00;170
+Western and Central Europe;Norway;Cocaine;1992;127.500,00;255
+Western and Central Europe;Norway;Cocaine;1993;110.000,00;156
+Western and Central Europe;Norway;Cocaine;1994;39.971,00;145
+Western and Central Europe;Norway;Cocaine;1995;50.000,00;150
+Western and Central Europe;Norway;Cocaine;1996;41.670,00;153
+Western and Central Europe;Norway;Cocaine;1997;60.028,00;177
+Western and Central Europe;Norway;Cocaine;1998;81.699,00;133
+Western and Central Europe;Norway;Cocaine;1999;57.545,00;128
+Western and Central Europe;Norway;Cocaine;2000;51.417,00;114
+Western and Central Europe;Norway;Cocaine;2001;51.569,00;157
+Western and Central Europe;Norway;Cocaine;2002;54.159,00;165
+Western and Central Europe;Norway;Cocaine;2003;56.500,00;170
+Western and Central Europe;Norway;Cocaine;2004;65.209,00;155
+Western and Central Europe;Norway;Cocaine;2005;65.209,00;155
+Western and Central Europe;Norway;Cocaine;2006;56.400,00;151
+Western and Central Europe;Norway;Cocaine;2007;61.661,00;164
+Western and Central Europe;Norway;Cocaine;2008;51.471,00;154
+Western and Central Europe;Norway;Cocaine;2009;48.668,00;146
+Western and Central Europe;Norway;Cocaine;2010;46.365,00;139
+Western and Central Europe;Norway;Cocaine;2011;48.862,00;147
+Western and Central Europe;Norway;Cocaine;2012;45.103,00;135
+Western and Central Europe;Norway;Cocaine;2013;46.678,00;127
+Western and Central Europe;Norway;Cocaine;2014;46.678,00;109
+Western and Central Europe;Norway;Cocaine;2015;46.678,00;92
+Western and Central Europe;Norway;Cocaine;2016;46.678,00;92
+Western and Central Europe;Norway;Cocaine;2017;42.393,38;115
+Western and Central Europe;Norway;Cocaine;2018;42.393,38;115
+Western and Central Europe;Norway;Cocaine;2019;42.393,38;115
+Western and Central Europe;Norway;Cocaine;2020;42.393,38;115
+Western and Central Europe;Norway;Heroin;1990;220.000,00;1.680,00
+Western and Central Europe;Norway;Heroin;1991;200.000,00;525
+Western and Central Europe;Norway;Heroin;1992;212.500,00;510
+Western and Central Europe;Norway;Heroin;1993;151.099,00;275
+Western and Central Europe;Norway;Heroin;1994;101.744,00;349
+Western and Central Europe;Norway;Heroin;1995;85.000,00;300
+Western and Central Europe;Norway;Heroin;1996;72.520,00;282
+Western and Central Europe;Norway;Heroin;1997;62.209,00;198
+Western and Central Europe;Norway;Heroin;1998;64.918,00;186
+Western and Central Europe;Norway;Heroin;1999;49.872,00;166
+Western and Central Europe;Norway;Heroin;2000;44.561,00;128
+Western and Central Europe;Norway;Heroin;2001;35.874,00;157
+Western and Central Europe;Norway;Heroin;2002;37.676,00;165
+Western and Central Europe;Norway;Heroin;2003;48.234,00;198
+Western and Central Europe;Norway;Heroin;2004;52.790,00;148
+Western and Central Europe;Norway;Heroin;2005;53.490,00;220
+Western and Central Europe;Norway;Heroin;2006;53.325,00;220
+Western and Central Europe;Norway;Heroin;2007;58.235,00;240
+Western and Central Europe;Norway;Heroin;2008;47.766,00;170
+Western and Central Europe;Norway;Heroin;2009;47.766,00;160
+Western and Central Europe;Norway;Heroin;2010;47.794,00;152
+Western and Central Europe;Norway;Heroin;2011;45.372,00;161
+Western and Central Europe;Norway;Heroin;2012;41.223,00;143
+Western and Central Europe;Norway;Heroin;2013;37.074,00;126
+Western and Central Europe;Norway;Heroin;2014;32.925,00;109
+Western and Central Europe;Norway;Heroin;2015;28.775,00;92
+Western and Central Europe;Norway;Heroin;2016;28.775,00;97
+Western and Central Europe;Norway;Heroin;2017;28.775,00;102
+Western and Central Europe;Norway;Heroin;2018;28.775,00;102
+Western and Central Europe;Norway;Heroin;2019;28.775,00;102
+Western and Central Europe;Norway;Heroin;2020;28.775,00;102
+Western and Central Europe;Portugal;Cocaine;1990;39.500,00;63
+Western and Central Europe;Portugal;Cocaine;1991;39.285,00;57
+Western and Central Europe;Portugal;Cocaine;1992;33.000,00;60
+Western and Central Europe;Portugal;Cocaine;1993;27.000,00;57
+Western and Central Europe;Portugal;Cocaine;1994;27.950,00;59
+Western and Central Europe;Portugal;Cocaine;1995;34.483,00;66
+Western and Central Europe;Portugal;Cocaine;1996;42.591,00;64
+Western and Central Europe;Portugal;Cocaine;1997;37.908,00;57
+Western and Central Europe;Portugal;Cocaine;1998;33.447,00;51
+Western and Central Europe;Portugal;Cocaine;1999;30.000,00;43
+Western and Central Europe;Portugal;Cocaine;2000;28.000,00;56
+Western and Central Europe;Portugal;Cocaine;2001;29.080,00;48
+Western and Central Europe;Portugal;Cocaine;2002;31.046,00;36
+Western and Central Europe;Portugal;Cocaine;2003;32.410,00;47
+Western and Central Europe;Portugal;Cocaine;2004;36.399,00;49
+Western and Central Europe;Portugal;Cocaine;2005;36.399,00;55
+Western and Central Europe;Portugal;Cocaine;2006;31.365,00;56
+Western and Central Europe;Portugal;Cocaine;2007;34.256,00;55
+Western and Central Europe;Portugal;Cocaine;2008;44.118,00;66
+Western and Central Europe;Portugal;Cocaine;2009;41.716,00;66
+Western and Central Europe;Portugal;Cocaine;2010;39.741,00;61
+Western and Central Europe;Portugal;Cocaine;2011;41.882,00;70
+Western and Central Europe;Portugal;Cocaine;2012;38.660,00;65
+Western and Central Europe;Portugal;Cocaine;2013;40.010,00;63
+Western and Central Europe;Portugal;Cocaine;2014;40.010,00;63
+Western and Central Europe;Portugal;Cocaine;2015;40.010,00;59,31
+Western and Central Europe;Portugal;Cocaine;2016;40.010,00;56,58
+Western and Central Europe;Portugal;Cocaine;2017;27.643,00;50
+Western and Central Europe;Portugal;Cocaine;2018;25.260,47;54
+Western and Central Europe;Portugal;Cocaine;2019;22.877,93;37
+Western and Central Europe;Portugal;Cocaine;2020;18.895,22;37,59
+Western and Central Europe;Portugal;Heroin;1990;50.000,00;83
+Western and Central Europe;Portugal;Heroin;1991;55.000,00;82
+Western and Central Europe;Portugal;Heroin;1992;46.667,00;72
+Western and Central Europe;Portugal;Heroin;1993;31.500,00;63
+Western and Central Europe;Portugal;Heroin;1994;32.428,00;65
+Western and Central Europe;Portugal;Heroin;1995;43.171,00;79
+Western and Central Europe;Portugal;Heroin;1996;45.902,00;68
+Western and Central Europe;Portugal;Heroin;1997;38.841,00;55
+Western and Central Europe;Portugal;Heroin;1998;30.483,00;74
+Western and Central Europe;Portugal;Heroin;1999;29.339,00;37
+Western and Central Europe;Portugal;Heroin;2000;25.398,00;45
+Western and Central Europe;Portugal;Heroin;2001;31.310,00;45
+Western and Central Europe;Portugal;Heroin;2002;25.839,00;41
+Western and Central Europe;Portugal;Heroin;2003;31.000,00;54
+Western and Central Europe;Portugal;Heroin;2004;34.075,00;52
+Western and Central Europe;Portugal;Heroin;2005;34.512,00;52
+Western and Central Europe;Portugal;Heroin;2006;34.512,00;52
+Western and Central Europe;Portugal;Heroin;2007;20.554,00;52
+Western and Central Europe;Portugal;Heroin;2008;27.206,00;49
+Western and Central Europe;Portugal;Heroin;2009;38.239,00;51
+Western and Central Europe;Portugal;Heroin;2010;29.806,00;47
+Western and Central Europe;Portugal;Heroin;2011;31.411,00;50
+Western and Central Europe;Portugal;Heroin;2012;28.995,00;46
+Western and Central Europe;Portugal;Heroin;2013;30.007,00;48
+Western and Central Europe;Portugal;Heroin;2014;30.007,00;34
+Western and Central Europe;Portugal;Heroin;2015;30.007,00;32
+Western and Central Europe;Portugal;Heroin;2016;30.007,00;29
+Western and Central Europe;Portugal;Heroin;2017;30.007,00;30
+Western and Central Europe;Portugal;Heroin;2018;30.007,00;34
+Western and Central Europe;Portugal;Heroin;2019;30.007,00;27
+Western and Central Europe;Portugal;Heroin;2020;30.007,00;19,51
+Western and Central Europe;Spain;Cocaine;1990;65.000,00;110
+Western and Central Europe;Spain;Cocaine;1991;60.000,00;100
+Western and Central Europe;Spain;Cocaine;1992;55.000,00;100
+Western and Central Europe;Spain;Cocaine;1993;35.000,00;63
+Western and Central Europe;Spain;Cocaine;1994;36.434,00;78
+Western and Central Europe;Spain;Cocaine;1995;41.322,00;91
+Western and Central Europe;Spain;Cocaine;1996;38.760,00;72
+Western and Central Europe;Spain;Cocaine;1997;36.806,00;68
+Western and Central Europe;Spain;Cocaine;1998;38.924,00;68
+Western and Central Europe;Spain;Cocaine;1999;38.898,00;63
+Western and Central Europe;Spain;Cocaine;2000;30.882,00;52
+Western and Central Europe;Spain;Cocaine;2001;38.898,00;52
+Western and Central Europe;Spain;Cocaine;2002;31.511,00;56
+Western and Central Europe;Spain;Cocaine;2003;38.830,00;70
+Western and Central Europe;Spain;Cocaine;2004;42.167,00;76
+Western and Central Europe;Spain;Cocaine;2005;41.321,00;76
+Western and Central Europe;Spain;Cocaine;2006;41.210,00;76
+Western and Central Europe;Spain;Cocaine;2007;46.274,00;83
+Western and Central Europe;Spain;Cocaine;2008;48.709,00;89
+Western and Central Europe;Spain;Cocaine;2009;45.941,00;83
+Western and Central Europe;Spain;Cocaine;2010;45.034,00;79
+Western and Central Europe;Spain;Cocaine;2011;47.877,00;82
+Western and Central Europe;Spain;Cocaine;2012;43.909,00;76
+Western and Central Europe;Spain;Cocaine;2013;44.756,00;77
+Western and Central Europe;Spain;Cocaine;2014;44.857,00;76
+Western and Central Europe;Spain;Cocaine;2015;37.603,00;64
+Western and Central Europe;Spain;Cocaine;2016;38.586,00;64
+Western and Central Europe;Spain;Cocaine;2017;39.747,00;67
+Western and Central Europe;Spain;Cocaine;2018;40.150,00;70
+Western and Central Europe;Spain;Cocaine;2019;38.076,15;67
+Western and Central Europe;Spain;Cocaine;2020;40.726,65;67
+Western and Central Europe;Spain;Heroin;1990;160.000,00;175
+Western and Central Europe;Spain;Heroin;1991;125.000,00;185
+Western and Central Europe;Spain;Heroin;1992;122.500,00;180
+Western and Central Europe;Spain;Heroin;1993;91.000,00;126
+Western and Central Europe;Spain;Heroin;1994;74.418,00;132
+Western and Central Europe;Spain;Heroin;1995;79.880,00;120
+Western and Central Europe;Spain;Heroin;1996;84.395,00;112
+Western and Central Europe;Spain;Heroin;1997;63.880,00;88
+Western and Central Europe;Spain;Heroin;1998;52.755,00;82
+Western and Central Europe;Spain;Heroin;1999;53.820,00;75
+Western and Central Europe;Spain;Heroin;2000;43.596,00;59
+Western and Central Europe;Spain;Heroin;2001;32.000,00;57
+Western and Central Europe;Spain;Heroin;2002;41.202,00;61
+Western and Central Europe;Spain;Heroin;2003;48.420,00;75
+Western and Central Europe;Spain;Heroin;2004;46.350,00;81
+Western and Central Europe;Spain;Heroin;2005;47.055,00;80
+Western and Central Europe;Spain;Heroin;2006;47.371,00;78
+Western and Central Europe;Spain;Heroin;2007;47.671,00;86
+Western and Central Europe;Spain;Heroin;2008;50.697,00;92
+Western and Central Europe;Spain;Heroin;2009;46.621,00;86
+Western and Central Europe;Spain;Heroin;2010;43.993,00;80
+Western and Central Europe;Spain;Heroin;2011;44.530,00;83
+Western and Central Europe;Spain;Heroin;2012;42.110,00;76
+Western and Central Europe;Spain;Heroin;2013;42.012,00;76
+Western and Central Europe;Spain;Heroin;2014;38.807,00;75
+Western and Central Europe;Spain;Heroin;2015;35.138,00;63
+Western and Central Europe;Spain;Heroin;2016;35.755,00;64
+Western and Central Europe;Spain;Heroin;2017;34.624,00;64
+Western and Central Europe;Spain;Heroin;2018;36.681,00;69
+Western and Central Europe;Spain;Heroin;2019;34.529,68;66
+Western and Central Europe;Spain;Heroin;2020;36.029,61;66
+Western and Central Europe;Sweden;Cocaine;1990;80.000,00;160
+Western and Central Europe;Sweden;Cocaine;1991;85.000,00;152
+Western and Central Europe;Sweden;Cocaine;1992;91.375,00;183
+Western and Central Europe;Sweden;Cocaine;1993;61.450,00;123
+Western and Central Europe;Sweden;Cocaine;1994;73.825,00;148
+Western and Central Europe;Sweden;Cocaine;1995;55.556,00;118
+Western and Central Europe;Sweden;Cocaine;1996;59.255,00;118
+Western and Central Europe;Sweden;Cocaine;1997;45.573,00;98
+Western and Central Europe;Sweden;Cocaine;1998;50.484,00;88
+Western and Central Europe;Sweden;Cocaine;1999;48.508,00;97
+Western and Central Europe;Sweden;Cocaine;2000;38.394,00;77
+Western and Central Europe;Sweden;Cocaine;2001;34.693,00;79
+Western and Central Europe;Sweden;Cocaine;2002;35.763,00;87
+Western and Central Europe;Sweden;Cocaine;2003;43.130,00;99
+Western and Central Europe;Sweden;Cocaine;2004;39.560,00;93
+Western and Central Europe;Sweden;Cocaine;2005;40.068,00;92
+Western and Central Europe;Sweden;Cocaine;2006;39.270,00;101
+Western and Central Europe;Sweden;Cocaine;2007;51.883,00;96
+Western and Central Europe;Sweden;Cocaine;2008;72.844,00;138
+Western and Central Europe;Sweden;Cocaine;2009;45.459,00;104
+Western and Central Europe;Sweden;Cocaine;2010;48.382,00;111
+Western and Central Europe;Sweden;Cocaine;2011;54.494,00;125
+Western and Central Europe;Sweden;Cocaine;2012;51.620,00;147
+Western and Central Europe;Sweden;Cocaine;2013;53.159,00;139
+Western and Central Europe;Sweden;Cocaine;2014;43.938,00;127
+Western and Central Europe;Sweden;Cocaine;2015;59.744,00;108
+Western and Central Europe;Sweden;Cocaine;2016;46.860,00;117
+Western and Central Europe;Sweden;Cocaine;2017;46.604,00;105
+Western and Central Europe;Sweden;Cocaine;2018;40.262,00;115
+Western and Central Europe;Sweden;Cocaine;2019;38.107,34;85
+Western and Central Europe;Sweden;Cocaine;2020;46.060,47;97,54
+Western and Central Europe;Sweden;Heroin;1990;140.000,00;225
+Western and Central Europe;Sweden;Heroin;1991;130.000,00;210
+Western and Central Europe;Sweden;Heroin;1992;115.000,00;195
+Western and Central Europe;Sweden;Heroin;1993;95.000,00;180
+Western and Central Europe;Sweden;Heroin;1994;117.625,00;165
+Western and Central Europe;Sweden;Heroin;1995;62.655,00;337
+Western and Central Europe;Sweden;Heroin;1996;64.829,00;346
+Western and Central Europe;Sweden;Heroin;1997;65.771,00;135
+Western and Central Europe;Sweden;Heroin;1998;63.190,00;130
+Western and Central Europe;Sweden;Heroin;1999;61.022,00;126
+Western and Central Europe;Sweden;Heroin;2000;41.626,00;113
+Western and Central Europe;Sweden;Heroin;2001;33.702,00;129
+Western and Central Europe;Sweden;Heroin;2002;34.738,00;133
+Western and Central Europe;Sweden;Heroin;2003;41.900,00;128
+Western and Central Europe;Sweden;Heroin;2004;31.648,00;119
+Western and Central Europe;Sweden;Heroin;2005;35.970,00;149
+Western and Central Europe;Sweden;Heroin;2006;35.970,00;138
+Western and Central Europe;Sweden;Heroin;2007;37.059,00;185
+Western and Central Europe;Sweden;Heroin;2008;38.339,00;234
+Western and Central Europe;Sweden;Heroin;2009;32.471,00;201
+Western and Central Europe;Sweden;Heroin;2010;41.471,00;214
+Western and Central Europe;Sweden;Heroin;2011;54.494,00;272
+Western and Central Europe;Sweden;Heroin;2012;44.246,00;306
+Western and Central Europe;Sweden;Heroin;2013;46.225,00;169
+Western and Central Europe;Sweden;Heroin;2014;41.447,00;127
+Western and Central Europe;Sweden;Heroin;2015;41.447,00;135
+Western and Central Europe;Sweden;Heroin;2016;41.447,00;117
+Western and Central Europe;Sweden;Heroin;2017;41.447,00;73
+Western and Central Europe;Sweden;Heroin;2018;41.447,00;89
+Western and Central Europe;Sweden;Heroin;2019;41.447,00;95
+Western and Central Europe;Sweden;Heroin;2020;37.932,16;86,7
+Western and Central Europe;Switzerland;Cocaine;1990;63.900,00;178
+Western and Central Europe;Switzerland;Cocaine;1991;94.250,00;144
+Western and Central Europe;Switzerland;Cocaine;1992;116.250,00;188
+Western and Central Europe;Switzerland;Cocaine;1993;50.847,00;136
+Western and Central Europe;Switzerland;Cocaine;1994;72.012,00;146
+Western and Central Europe;Switzerland;Cocaine;1995;75.949,00;148
+Western and Central Europe;Switzerland;Cocaine;1996;51.587,00;127
+Western and Central Europe;Switzerland;Cocaine;1997;40.780,00;117
+Western and Central Europe;Switzerland;Cocaine;1998;41.152,00;110
+Western and Central Europe;Switzerland;Cocaine;1999;41.000,00;109
+Western and Central Europe;Switzerland;Cocaine;2000;35.482,00;77
+Western and Central Europe;Switzerland;Cocaine;2001;23.392,00;69
+Western and Central Europe;Switzerland;Cocaine;2002;19.274,00;74
+Western and Central Europe;Switzerland;Cocaine;2003;37.230,00;89
+Western and Central Europe;Switzerland;Cocaine;2004;44.008,00;86
+Western and Central Europe;Switzerland;Cocaine;2005;44.008,00;86
+Western and Central Europe;Switzerland;Cocaine;2006;41.090,00;74
+Western and Central Europe;Switzerland;Cocaine;2007;44.351,00;75
+Western and Central Europe;Switzerland;Cocaine;2008;49.307,00;65
+Western and Central Europe;Switzerland;Cocaine;2009;50.379,00;82
+Western and Central Europe;Switzerland;Cocaine;2010;52.554,00;96
+Western and Central Europe;Switzerland;Cocaine;2011;58.950,00;102
+Western and Central Europe;Switzerland;Cocaine;2012;55.477,00;96
+Western and Central Europe;Switzerland;Cocaine;2013;58.625,00;99
+Western and Central Europe;Switzerland;Cocaine;2014;52.685,00;78
+Western and Central Europe;Switzerland;Cocaine;2015;52.472,00;78
+Western and Central Europe;Switzerland;Cocaine;2016;52.472,00;78
+Western and Central Europe;Switzerland;Cocaine;2017;52.472,00;78
+Western and Central Europe;Switzerland;Cocaine;2018;52.472,00;78
+Western and Central Europe;Switzerland;Cocaine;2019;52.472,00;78
+Western and Central Europe;Switzerland;Cocaine;2020;52.472,00;78
+Western and Central Europe;Switzerland;Heroin;1990;124.000,00;312
+Western and Central Europe;Switzerland;Heroin;1991;153.800,00;221
+Western and Central Europe;Switzerland;Heroin;1992;228.875,00;248
+Western and Central Europe;Switzerland;Heroin;1993;47.460,00;126
+Western and Central Europe;Switzerland;Heroin;1994;52.823,00;164
+Western and Central Europe;Switzerland;Heroin;1995;54.850,00;190
+Western and Central Europe;Switzerland;Heroin;1996;41.665,00;116
+Western and Central Europe;Switzerland;Heroin;1997;37.234,00;81
+Western and Central Europe;Switzerland;Heroin;1998;34.294,00;96
+Western and Central Europe;Switzerland;Heroin;1999;33.422,00;167
+Western and Central Europe;Switzerland;Heroin;2000;29.568,00;53
+Western and Central Europe;Switzerland;Heroin;2001;16.082,00;45
+Western and Central Europe;Switzerland;Heroin;2002;19.149,00;39
+Western and Central Europe;Switzerland;Heroin;2003;22.340,00;48
+Western and Central Europe;Switzerland;Heroin;2004;23.580,00;48
+Western and Central Europe;Switzerland;Heroin;2005;25.420,00;48
+Western and Central Europe;Switzerland;Heroin;2006;21.470,00;39
+Western and Central Europe;Switzerland;Heroin;2007;23.180,00;42
+Western and Central Europe;Switzerland;Heroin;2008;25.584,00;37
+Western and Central Europe;Switzerland;Heroin;2009;25.190,00;46
+Western and Central Europe;Switzerland;Heroin;2010;27.710,00;48
+Western and Central Europe;Switzerland;Heroin;2011;30.609,00;57
+Western and Central Europe;Switzerland;Heroin;2012;28.805,00;64
+Western and Central Europe;Switzerland;Heroin;2013;30.440,00;68
+Western and Central Europe;Switzerland;Heroin;2014;27.356,00;61
+Western and Central Europe;Switzerland;Heroin;2015;27.245,00;61
+Western and Central Europe;Switzerland;Heroin;2016;27.245,00;61
+Western and Central Europe;Switzerland;Heroin;2017;27.245,00;61
+Western and Central Europe;Switzerland;Heroin;2018;27.245,00;61
+Western and Central Europe;Switzerland;Heroin;2019;27.245,00;61
+Western and Central Europe;Switzerland;Heroin;2020;27.245,00;61
+Western and Central Europe;United Kingdom;Cocaine;1990;47.850,00;131
+Western and Central Europe;United Kingdom;Cocaine;1991;46.475,00;127
+Western and Central Europe;United Kingdom;Cocaine;1992;20.625,00;69
+Western and Central Europe;United Kingdom;Cocaine;1993;43.210,00;123
+Western and Central Europe;United Kingdom;Cocaine;1994;45.000,00;113
+Western and Central Europe;United Kingdom;Cocaine;1995;46.774,00;111
+Western and Central Europe;United Kingdom;Cocaine;1996;40.625,00;102
+Western and Central Europe;United Kingdom;Cocaine;1997;47.500,00;124
+Western and Central Europe;United Kingdom;Cocaine;1998;47.500,00;128
+Western and Central Europe;United Kingdom;Cocaine;1999;33.981,00;104
+Western and Central Europe;United Kingdom;Cocaine;2000;38.168,00;94
+Western and Central Europe;United Kingdom;Cocaine;2001;36.008,00;94
+Western and Central Europe;United Kingdom;Cocaine;2002;35.848,00;84
+Western and Central Europe;United Kingdom;Cocaine;2003;40.880,00;90
+Western and Central Europe;United Kingdom;Cocaine;2004;50.036,00;91
+Western and Central Europe;United Kingdom;Cocaine;2005;50.036,00;79
+Western and Central Europe;United Kingdom;Cocaine;2006;50.943,00;87
+Western and Central Europe;United Kingdom;Cocaine;2007;60.362,00;91
+Western and Central Europe;United Kingdom;Cocaine;2008;64.682,00;74
+Western and Central Europe;United Kingdom;Cocaine;2009;76.963,00;62
+Western and Central Europe;United Kingdom;Cocaine;2010;76.897,00;62
+Western and Central Europe;United Kingdom;Cocaine;2011;80.334,00;64
+Western and Central Europe;United Kingdom;Cocaine;2012;79.132,00;63
+Western and Central Europe;United Kingdom;Cocaine;2013;66.907,00;67
+Western and Central Europe;United Kingdom;Cocaine;2014;62.112,00;62
+Western and Central Europe;United Kingdom;Cocaine;2015;57.778,00;59
+Western and Central Europe;United Kingdom;Cocaine;2016;44.715,00;54
+Western and Central Europe;United Kingdom;Cocaine;2017;35.990,00;103
+Western and Central Europe;United Kingdom;Cocaine;2018;46.729,00;107
+Western and Central Europe;United Kingdom;Cocaine;2019;44.529,26;127
+Western and Central Europe;United Kingdom;Cocaine;2020;51.413,88;102,83
+Western and Central Europe;United Kingdom;Heroin;1990;53.940,00;157
+Western and Central Europe;United Kingdom;Heroin;1991;43.940,00;144
+Western and Central Europe;United Kingdom;Heroin;1992;43.500,00;144
+Western and Central Europe;United Kingdom;Heroin;1993;43.210,00;134
+Western and Central Europe;United Kingdom;Heroin;1994;42.500,00;129
+Western and Central Europe;United Kingdom;Heroin;1995;42.004,00;125
+Western and Central Europe;United Kingdom;Heroin;1996;34.846,00;108
+Western and Central Europe;United Kingdom;Heroin;1997;39.491,00;118
+Western and Central Europe;United Kingdom;Heroin;1998;41.667,00;120
+Western and Central Europe;United Kingdom;Heroin;1999;29.126,00;108
+Western and Central Europe;United Kingdom;Heroin;2000;26.718,00;107
+Western and Central Europe;United Kingdom;Heroin;2001;25.926,00;86
+Western and Central Europe;United Kingdom;Heroin;2002;30.620,00;91
+Western and Central Europe;United Kingdom;Heroin;2003;34.340,00;100
+Western and Central Europe;United Kingdom;Heroin;2004;39.041,00;110
+Western and Central Europe;United Kingdom;Heroin;2005;33.249,00;93
+Western and Central Europe;United Kingdom;Heroin;2006;28.320,00;71
+Western and Central Europe;United Kingdom;Heroin;2007;27.163,00;101
+Western and Central Europe;United Kingdom;Heroin;2008;29.569,00;83
+Western and Central Europe;United Kingdom;Heroin;2009;24.628,00;69
+Western and Central Europe;United Kingdom;Heroin;2010;32.297,00;62
+Western and Central Europe;United Kingdom;Heroin;2011;40.167,00;64
+Western and Central Europe;United Kingdom;Heroin;2012;47.479,00;63
+Western and Central Europe;United Kingdom;Heroin;2013;46.835,00;63
+Western and Central Europe;United Kingdom;Heroin;2014;41.925,00;78
+Western and Central Europe;United Kingdom;Heroin;2015;40.000,00;59
+Western and Central Europe;United Kingdom;Heroin;2016;31.165,00;68
+Western and Central Europe;United Kingdom;Heroin;2017;32.134,00;64
+Western and Central Europe;United Kingdom;Heroin;2018;22.697,00;53
+Western and Central Europe;United Kingdom;Heroin;2019;22.900,76;64
+Western and Central Europe;United Kingdom;Heroin;2020;25.706,94;64
